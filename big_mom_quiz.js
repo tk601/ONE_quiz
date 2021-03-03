@@ -7,7 +7,7 @@ const quiz = [
       'ベッシ',
       'ペッツ'
     ],
-    correct: 'ベッシ'
+    correct: 'ペッツ'
   }, {
     question: 'サンジの母親の名前は？',
     answers: [
